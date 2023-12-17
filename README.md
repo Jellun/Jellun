@@ -10,6 +10,9 @@ www.linkedin.com/in/junyeau
 Email: jellun@hotmail.com
 Phone: 0431037288 (Mobile)
 
+This is what ChatGPT says about me:
+Jun Ye is an experienced Graphics and Automation Technology Manager at Nine Entertainment Co., skilled in broadcast television engineering, streaming media, and systems integration. With a strong background in software development, DevOps, and cloud solutions, he has effectively managed major projects, fostering innovation and professional development within his team. Jun's role includes overseeing graphics and studio automation technology across Nine's TV stations and aligning technology strategies with business goals. His accomplishments include successful major broadcast system migrations, software development for real-time social media integration in TV shows, and innovative solutions in studio production technology.
+
 <!---
 Jellun/Jellun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
