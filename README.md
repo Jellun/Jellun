@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Jellun
 TL,DR:
 Jun Ye is an experienced Graphics and Automation Technology Manager at Nine Entertainment Co., skilled in broadcast television engineering, streaming media, and systems integration. With a strong background in software development, DevOps, and cloud solutions, he has effectively managed major projects, fostering innovation and professional development within his team. Jun's role includes overseeing graphics and studio automation technology across Nine's TV stations and aligning technology strategies with business goals. His accomplishments include successful major broadcast system migrations, software development for real-time social media integration in TV shows, and innovative solutions in studio production technology.
 
