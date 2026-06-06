@@ -1,4 +1,4 @@
-Tech / AI / Father / Mindfulness
+Tech | AI | Father | Mindfulness
 
 www.linkedin.com/in/junyeau
 Email: jellun@hotmail.com
